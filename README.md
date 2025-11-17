@@ -42,3 +42,4 @@ Simãp Baptista Sunga & Luiz Felipe Santana
 ## Observações
 - O programa utiliza caracteres especiais para bordas do menu, por isso recomenda-se rodar em terminal que suporte UTF-8.
 - O código está totalmente comentado e organizado para facilitar o entendimento.
+- É um dos nossos primeiros projectos e na altura não sabiamos muito sobre modularização do codigo (explicando o motivo de ter criado um imprimir.h sem o imprimir.c).
