@@ -37,7 +37,7 @@ main.exe
 ```
 
 ## Autores
-Simãp Baptista Sunga & Luiz Felipe Santana
+SimãO Baptista Sunga & Luiz Felipe Santana
 
 ## Observações
 - O programa utiliza caracteres especiais para bordas do menu, por isso recomenda-se rodar em terminal que suporte UTF-8.
